@@ -1,6 +1,6 @@
 var kathakali = prompt("Enter your Key : ")
 if (kathakali=="user0"){
-    window.location.assign("https://paidserver.w3spaces.com/indenew_enc.html")
+    window.location.assign("https://paidserver2.w3spaces.com/indenew_enc.html")
 }
 else{
     alert("your not a paid user")
